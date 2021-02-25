@@ -1,0 +1,7 @@
+Sahej|Hundal|1 A St|Fremont|CA|94538|123-456-7890|a@a.com
+John|Smith|2 B St|Los Angeles|CA|90001|123-456-7890|a@a.com
+Mark|Smith|2 B St|Los Angeles|CA|90001|123-456-7890|a@a.com
+Anthony|Smith|2 B St|Los Angeles|CA|90001|123-456-7890|a@a.com
+Jack|Marston|3 C St|Random Town|CA|90000|123-456-7890|a@a.com
+Jordan|A|3 C St|Random Town|CA|90000|123-456-7890|a@a.com
+Michael|B|3 C St|Random Town|CA|90000|123-456-7890|a@a.com
